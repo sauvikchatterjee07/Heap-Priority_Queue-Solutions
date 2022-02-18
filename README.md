@@ -7,3 +7,4 @@ Heap solutions
 - 17th Feb - 658. Find K Closest Elements
 - 17th Feb - 347. Top K Frequent Elements
 - 18th Feb - 1636. Sort Array by Increasing Frequency
+- 18th Feb - 973. K Closest Points to Origin
