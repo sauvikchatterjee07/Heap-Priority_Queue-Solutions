@@ -9,3 +9,4 @@ Heap solutions
 - 18th Feb - 1636. Sort Array by Increasing Frequency
 - 18th Feb - 973. K Closest Points to Origin
 - 18th Feb - Minimise Cost to Connect 2 Ropes
+- 19th Feb - 1337. The K Weakest Rows in a Matrix 
